@@ -8,6 +8,23 @@ module.exports = {
         inter: ["Inter", "sans-serif"],
       },
 
+      fontSize: {
+        xxxs: "0.625rem",
+        xxs: "0.75rem",
+        xs: "0.8125rem",
+        sm: "0.875rem",
+        "semi-base": "0.9375rem",
+        base: "1rem",
+        "semi-lg": "1.0625rem",
+        lg: "1.125rem",
+        "semi-xl": "1.1875rem",
+        xl: "1.25rem",
+        "2xl": "1.5rem",
+        "3xl": "1.625rem",
+        "4xl": "1.9375rem",
+        "5xl": "3rem",
+      },
+
       colors: {
         "twitter-blue": "#1D9BF0",
         "twitter-blue-hover": '#1871CA',
@@ -39,6 +56,23 @@ module.exports = {
           950: "#0A0A0A",
           1000: "#000000",
         },
+      },
+
+      spacing: {
+        "50%-": "-50%",
+        "2.5-": "-.625rem",
+        4.5: "1.125rem",
+        17: "4.25rem",
+        17.25: "4.375rem",
+        55: "13.75rem",
+        84: "21rem",
+        87: "21.75rem",
+        88: "22rem",
+        106: "26.5rem",
+        110: "27.5rem",
+        120: "30rem",
+        128: "32rem",
+        150: "37.5rem",
       },
 
       width: {
