@@ -77,19 +77,42 @@ module.exports = {
 
       width: {
         // Naming things is hard...
+        17.5: "71px",
+        22: "84px",
+        22.5: "85px",
+
+        "sm": "222px",
         "almost-sm": "334px",
         "almost-sm-2": "348px",
         "almost-md": "426px",
         "almost-md-2": "434px",
         "almost-md-3": "442px",
+        "lg": "512px",
+        "post-xl": "598px",
+      },
 
-        lg: '512px',
-        'post-xl': '598px'
+      height: {
+        14.5: "58px",
+      },
+
+      borderRadius: {
+        "2.5xl": "20px",
+        "4xl": "65px",
+      },
+
+      screens: {
+        tab: "820px",
+        mobile: "480px",
       },
 
       lineHeight: {
         // Naming things is very hard...
         regular: "normal",
+      },
+
+      padding: {
+        22: "93px",
+        3.75: "15px",
       },
 
       gap: {
