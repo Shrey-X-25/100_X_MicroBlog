@@ -93,6 +93,7 @@ module.exports = {
 
       height: {
         14.5: "58px",
+        88.5: "355px",
       },
 
       borderRadius: {
@@ -117,6 +118,7 @@ module.exports = {
 
       gap: {
         2.5: "0.625rem",
+        3.5: "15px",
       },
 
       boxShadow: {
