@@ -1252,11 +1252,6 @@ video {
   color: rgb(249 249 249 / var(--tw-text-opacity));
 }
 
-.peer\/normal_input:focus-within ~ .peer-focus-within\/normal_input\:text-twitter-blue{
-  --tw-text-opacity: 1;
-  color: rgb(29 155 240 / var(--tw-text-opacity));
-}
-
 .peer:focus ~ .peer-focus\:text-twitter-blue{
   --tw-text-opacity: 1;
   color: rgb(29 155 240 / var(--tw-text-opacity));
